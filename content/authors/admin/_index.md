@@ -45,11 +45,12 @@ highlight_name: true
 I am a Ph.D. student in Data Science at the [Center for Data Science (CDS) at New York University](https://cds.nyu.edu/), working in the intersection of Economics and Data Science. 
 
 {style="text-align: justify;"}
-
-<a class="btn btn-outline-primary btn-page-header" href="/static/uploads/resume.pdf" target="_blank" rel="noopener" style="text-align:center">DOWNLOAD CV</a>
+<!---
+<a class="btn btn-outline-primary btn-page-header" href="uploads/resume.pdf" target="_blank" rel="noopener" style="text-align:center">DOWNLOAD CV</a>
+-->
 
 <div>
-  <a class="background-img" href="https://github.com/dapivei/dapivei.github.io/main/images/mountains.jpg"><img id="img1" src="https://github.com/dapivei/dapivei.github.io/main/images/mountains.jpg" /></a>
+  <a class="background-img" href="#img1"><img id="img1" src="img/mountains.jpg" /></a>
 </div>
   
 
