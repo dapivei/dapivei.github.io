@@ -38,7 +38,9 @@ highlight_name: true
 \n
 \n
 \n
-I am a Ph.D. student in Data Science at the Center for Data Science (CDS) at New York University, working in the intersection of Economics and Data Science.
+
+
+I am a Ph.D. student in Data Science at the [Center for Data Science (CDS) at New York University](https://cds.nyu.edu/), working in the intersection of Economics and Data Science.
 
 
 {style="text-align: justify;"}
