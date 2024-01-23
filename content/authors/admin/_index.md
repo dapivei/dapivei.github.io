@@ -34,6 +34,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
 <br>
 <br>
 <br>
@@ -42,7 +43,13 @@ highlight_name: true
 
 
 I am a Ph.D. student in Data Science at the [Center for Data Science (CDS) at New York University](https://cds.nyu.edu/), working in the intersection of Economics and Data Science.
+<a class="btn btn-outline-primary btn-page-header" href="/static/uploads/resume.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a>
 
-<a href="/static/uploads/resume.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a>
+
+<div>
+  <a class="background-img" href="#img1"><img id="img1" src="images/mountains.jpg" /></a>
+</div>
+  
 
 {style="text-align: justify;"}
+
