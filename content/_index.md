@@ -42,12 +42,19 @@ sections:
       title: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  #- block: skills
-  #  content:
-  #    title: Skills
-  #    text: ''
+
+      text: |-
+        <div class="mb-3"></div>
+
+  - block: skills
+    content:
+      title: ''
+      text: |-
+      <div>
+      <a class="background-img" href="#img1"><img id="img1" src="img/mountains.jpg" /></a>
+      </div>
   #    # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+  #    username: admin
     design:
       columns: '1'
   #- block: experience
@@ -234,10 +241,10 @@ sections:
     content:
       title: Contact
       #subtitle:
-      #text: |-
-      #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      ## Contact (add or remove contact options as necessary)
-      email: daniela.pinto@nyu.edu
+      text: |-
+      envelope daniela.pinto@nyu.edu
+
+      # email: daniela.pinto@nyu.edu
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       #address:

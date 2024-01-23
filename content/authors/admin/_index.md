@@ -49,9 +49,6 @@ I am a Ph.D. student in Data Science at the [Center for Data Science (CDS) at Ne
 <a class="btn btn-outline-primary btn-page-header" href="uploads/resume.pdf" target="_blank" rel="noopener" style="text-align:center">DOWNLOAD CV</a>
 -->
 
-<div>
-  <a class="background-img" href="#img1"><img id="img1" src="img/mountains.jpg" /></a>
-</div>
   
 
 
