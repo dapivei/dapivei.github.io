@@ -36,6 +36,12 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+
+  - block: skills
+    content:
+      title: ''
+      text: ''
+
   - block: about.biography
     id: about
     content:
@@ -236,13 +242,13 @@ sections:
   #    title: Popular Topics
   #  design:
   #    columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      #subtitle:
-      text: |-
-        envelope daniela.pinto@nyu.edu
+  #- block: contact
+  #  id: contact
+  #  content:
+  #    title: Contact
+  #    #subtitle:
+  #    text: |-
+  #      envelope daniela.pinto@nyu.edu
 
       # email: daniela.pinto@nyu.edu
       #phone: 888 888 88 88

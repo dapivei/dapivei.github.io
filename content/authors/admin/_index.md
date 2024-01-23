@@ -11,7 +11,7 @@ superuser: true
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: daniela.pinto@nyu.edu
   - icon: x
     icon_pack: fab
     link: https://twitter.com/daleeyoko
