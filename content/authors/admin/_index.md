@@ -120,10 +120,7 @@ social:
 highlight_name: true
 ---
 
-
-
-
-
-
 I am a Ph.D. student in Data Science at the Data Science Center at New York University, working in the intersection of Economics and Data Science.
+
+
 {style="text-align: justify;"}
