@@ -48,7 +48,7 @@ I am a Ph.D. student in Data Science at the [Center for Data Science (CDS) at Ne
 
 
 <div>
-  <a class="background-img" href="#img1"><img id="img1" src="https://github.com/dapivei/dapivei.github.io/main/images/mountains.jpg" /></a>
+  <a class="background-img" href="https://github.com/dapivei/dapivei.github.io/main/images/mountains.jpg"><img id="img1" src="https://github.com/dapivei/dapivei.github.io/main/images/mountains.jpg" /></a>
 </div>
   
 
