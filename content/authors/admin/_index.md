@@ -9,9 +9,9 @@ superuser: true
 
 # Social/Academic Networking
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: daniela.pinto@nyu.edu
+  - icon: at-symbol
+    url: 'mailto:daniela.pinto@nyu.edu'
+    label: E-mail Me
   - icon: x
     icon_pack: fab
     link: https://twitter.com/daleeyoko
