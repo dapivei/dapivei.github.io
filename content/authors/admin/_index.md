@@ -34,10 +34,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-\n
-\n
-\n
-\n
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 I am a Ph.D. student in Data Science at the [Center for Data Science (CDS) at New York University](https://cds.nyu.edu/), working in the intersection of Economics and Data Science.
