@@ -50,9 +50,9 @@ sections:
     content:
       title: ''
       text: |-
-      <div>
-      <a class="background-img" href="#img1"><img id="img1" src="img/mountains.jpg" /></a>
-      </div>
+        <div>
+        <a class="background-img" href="#img1"><img id="img1" src="img/mountains.jpg" /></a>
+        </div>
   #    # Choose a user to display skills from (a folder name within `content/authors/`)
   #    username: admin
     design:
