@@ -43,20 +43,28 @@ sections:
       title: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-
       text: |-
         <div class="mb-3"></div>
-
+    design:
+      background:
+        color: '#1976d2'
+        text_color_light: true
   - block: skills
     content:
       title: ''
       text: ''
-
+    design:
+      background:
+        color: '#1976d2'
+        text_color_light: true
   - block: skills
     content:
       title: ''
       text: ''
-
+    design:
+      background:
+        color: '#1976d2'
+        text_color_light: true
   #- block: skills
   #  content:
   #    title: ''
