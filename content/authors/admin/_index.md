@@ -27,9 +27,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -43,5 +43,6 @@ highlight_name: true
 
 I am a Ph.D. student in Data Science at the [Center for Data Science (CDS) at New York University](https://cds.nyu.edu/), working in the intersection of Economics and Data Science.
 
+<a href="/static/uploads/resume.pdf" target="_blank" rel="noopener">DOWNLOAD CV</a>
 
 {style="text-align: justify;"}
