@@ -37,11 +37,6 @@ sections:
         gradient_start: '#004ba0'
         text_color_light: true
 
-  - block: skills
-    content:
-      title: ''
-      text: ''
-
   - block: about.biography
     id: about
     content:
@@ -55,10 +50,20 @@ sections:
   - block: skills
     content:
       title: ''
-      text: |-
-        <div>
-        <a class="background-img" href="#img1"><img id="img1" src="img/mountains.jpg" /></a>
-        </div>
+      text: ''
+
+  - block: skills
+    content:
+      title: ''
+      text: ''
+
+  #- block: skills
+  #  content:
+  #    title: ''
+  #    text: |-
+  #      <div>
+  #      <a class="background-img" href="#img1"><img id="img1" src="img/mountains.jpg" /></#a>
+  #      </div>
   #    # Choose a user to display skills from (a folder name within `content/authors/`)
   #    username: admin
     design:
