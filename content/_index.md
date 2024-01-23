@@ -242,7 +242,7 @@ sections:
       title: Contact
       #subtitle:
       text: |-
-      envelope daniela.pinto@nyu.edu
+        envelope daniela.pinto@nyu.edu
 
       # email: daniela.pinto@nyu.edu
       #phone: 888 888 88 88
